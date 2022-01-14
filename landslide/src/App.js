@@ -6,7 +6,7 @@ import './App.css'
 import { PowerBIEmbed } from 'powerbi-client-react'
 import { models } from 'powerbi-client'
 
-const REPORT_ID = '3a4ea71c-5277-4419-96b9-4f183608bb81'
+const REPORT_ID = 'd8a39b7c-e003-4374-a25f-0c650d98736e'
 
 function App() {
   const [token, setToken] = useState()
